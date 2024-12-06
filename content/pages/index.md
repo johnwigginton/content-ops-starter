@@ -126,10 +126,9 @@ sections:
         type: FeaturedItem
       - title: Cybersecurity Consulting
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Offer cybersecurity assessments, penetration testing, and security
+          audits to help businesses mitigate risks.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
