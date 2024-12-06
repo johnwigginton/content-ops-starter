@@ -7,7 +7,7 @@ sections:
       text: About Me
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 10 Years of Experience
     text: |+
       Hello, I'm John Wigginton, a skilled System Administrator and 
       Security Engineer. With years of experience in managing IT 
