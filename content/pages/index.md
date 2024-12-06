@@ -100,7 +100,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: Systems Administration
         subtitle: The Job Stuff
         text: >
           Manage servers, databases, and workstations. Perform regular
