@@ -8,10 +8,19 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+      Hello, I'm John Wigginton, a skilled System Administrator and 
+      Security Engineer. With years of experience in managing IT 
+      infrastructure, designing secure networks, and ensuring robust 
+      cybersecurity, I help businesses optimize their IT systems while 
+      safeguarding them against evolving threats.
+
+      Whether it's troubleshooting server issues, 
+      securing your network, or offering strategic IT support, I can provide 
+      the expertise you need.
+
+
+
     actions:
       - label: Get started
         altText: ''
