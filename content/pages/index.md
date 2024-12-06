@@ -199,6 +199,7 @@ sections:
       type: TitleBlock
       text: Portfolio
       color: text-dark
+    subtitle: 'Below are a few examples of projects I’ve worked on:'
   - title: Divider
     colors: bg-light-fg-dark
     styles:
